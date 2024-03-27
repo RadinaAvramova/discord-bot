@@ -1,0 +1,32 @@
+{
+  "name": "intro-discord-bot",
+  "version": "1.0.0",
+  "description": "## TODO",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingGarden/intro-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodingGarden/intro-discord-bot/issues"
+  },
+  "homepage": "https://github.com/CodingGarden/intro-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.5.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
